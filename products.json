@@ -1,0 +1,45 @@
+{
+  "invoiceItems": [
+    {
+      "sqNo": 1,
+      "description": "Projecting - Context menu for invoices list",
+      "quantity": "x1.0",
+      "units": "hours",
+      "unitPrice": 500.00,
+      "total": 500.00
+    },
+    {
+      "sqNo": 2,
+      "description": "Develop - Invoice number format template",
+      "quantity": "x17.0",
+      "units": "hours",
+      "unitPrice": 40.00,
+      "total": 680.00
+    },
+    {
+      "sqNo": 3,
+      "description": "Analysis - [PRO] Duplicating invoices",
+      "quantity": "x3.0",
+      "units": "hours",
+      "unitPrice": 35.00,
+      "total": 105.00
+    },
+    {
+      "sqNo": 4,
+      "description": "Testing - Responsive design",
+      "quantity": "x5.0",
+      "units": "hours",
+      "unitPrice": 55.00,
+      "total": 275.00
+    },
+    {
+      "sqNo": 5,
+      "description": "Documentation - User guide",
+      "quantity": "x2.5",
+      "units": "hours",
+      "unitPrice": 30.00,
+      "total": 75.00
+    }
+  ]
+ 
+}
