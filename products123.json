@@ -1,0 +1,137 @@
+[
+  {
+    "sqNo": 1,
+    "description": "Projecting - Context menu for invoices list",
+    "quantity": "x1.0",
+    "units": "hours",
+    "unitPrice": 500.00,
+    "total": 500.00,
+    "tag": "UI/UX"
+  },
+  {
+    "sqNo": 2,
+    "description": "Develop - Invoice number format template",
+    "quantity": "x17.0",
+    "units": "hours",
+    "unitPrice": 40.00,
+    "total": 680.00,
+    "tag": "Development"
+  },
+  {
+    "sqNo": 3,
+    "description": "Analysis - [PRO] Duplicating invoices",
+    "quantity": "x3.0",
+    "units": "hours",
+    "unitPrice": 35.00,
+    "total": 105.00,
+    "tag": "Analysis"
+  },
+  {
+    "sqNo": 4,
+    "description": "Testing - Responsive design",
+    "quantity": "x5.0",
+    "units": "hours",
+    "unitPrice": 55.00,
+    "total": 275.00,
+    "tag": "Testing"
+  },
+  {
+    "sqNo": 5,
+    "description": "Documentation - User guide",
+    "quantity": "x2.5",
+    "units": "hours",
+    "unitPrice": 30.00,
+    "total": 75.00,
+    "tag": "Documentation"
+  },
+  {
+    "sqNo": 6,
+    "description": "Database Optimization",
+    "quantity": "x2.5",
+    "units": "hours",
+    "unitPrice": 450.00,
+    "total": 1125.00,
+    "tag": "Database"
+  },
+  {
+    "sqNo": 7,
+    "description": "User Interface Design",
+    "quantity": "x1.5",
+    "units": "hours",
+    "unitPrice": 600.00,
+    "total": 900.00,
+    "tag": "UI/UX"
+  },
+  {
+    "sqNo": 8,
+    "description": "Bug Fixing - Login Module",
+    "quantity": "x0.5",
+    "units": "hours",
+    "unitPrice": 350.00,
+    "total": 175.00,
+    "tag": "Testing"
+  },
+  {
+    "sqNo": 9,
+    "description": "Integration Testing",
+    "quantity": "x3.0",
+    "units": "hours",
+    "unitPrice": 400.00,
+    "total": 1200.00,
+    "tag": "Testing"
+  },
+  {
+    "sqNo": 10,
+    "description": "Feature Enhancement - Reports",
+    "quantity": "x2.5",
+    "units": "hours",
+    "unitPrice": 550.00,
+    "total": 1375.00,
+    "tag": "Development"
+  },
+  {
+    "sqNo": 11,
+    "description": "Code Review - Security Updates",
+    "quantity": "x1.0",
+    "units": "hours",
+    "unitPrice": 480.00,
+    "total": 480.00,
+    "tag": "Development"
+  },
+  {
+    "sqNo": 12,
+    "description": "Testing Automation",
+    "quantity": "x2.0",
+    "units": "hours",
+    "unitPrice": 600.00,
+    "total": 1200.00,
+    "tag": "Testing"
+  },
+  {
+    "sqNo": 13,
+    "description": "User Training Session",
+    "quantity": "x1.5",
+    "units": "hours",
+    "unitPrice": 350.00,
+    "total": 525.00,
+    "tag": "Training"
+  },
+  {
+    "sqNo": 14,
+    "description": "Server Maintenance",
+    "quantity": "x3.0",
+    "units": "hours",
+    "unitPrice": 400.00,
+    "total": 1200.00,
+    "tag": "Maintenance"
+  },
+  {
+    "sqNo": 15,
+    "description": "Final Project Review",
+    "quantity": "x1.0",
+    "units": "hours",
+    "unitPrice": 550.00,
+    "total": 550.00,
+    "tag": "Review"
+  }
+]
